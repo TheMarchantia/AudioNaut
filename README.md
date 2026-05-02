@@ -1,8 +1,6 @@
 # AudioNaut
-AudioNaut is a customizable voice-controlled gaming interface. It lets players control any PC game using spoken commands mapped to keyboard and mouse actions. Commands are fully editable, making it easy to add, remove, or modify controls for any game.
-# AudioNaut
+AudioNaut is a customizable voice-controlled gaming interface. It lets players control any PC game using spoken commands mapped to keyboard and mouse actions. Commands are fully editable, making it easy to add, remove, or modify controls for any game, highly optimized for games like **GTA V**.
 
-AudioNaut is a customizable voice-controlled gaming interface. It lets players control any PC game using spoken commands mapped to keyboard and mouse actions. Commands are fully editable, making it easy to add, remove, or modify controls for any game.
 
 ## Features
 - Fullscreen gaming UI
@@ -35,7 +33,18 @@ Example:
 markdown
 Copy code
 
+🎙️ Important Notes
+Make sure your microphone is properly configured
+👉 Check in:
+Windows Settings → System → Sound → Input Device
+If commands are not being recognized:
+Ensure correct input device is selected
+Speak clearly and use defined commands
+Check internet connection (Google Speech API dependency)
+
 ## Requirements
 - Python 3.10+
 - Microphone
 - Internet connection for speech recognition
+
+If you like this project, consider starring ⭐ the repository!
