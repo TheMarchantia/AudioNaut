@@ -30,8 +30,7 @@ Example:
 "reload weapon": "r",
 "drive fast": "shift",
 
-markdown
-Copy code
+## USE HEADSET WITH GOOD MIC!!!
 
 🎙️ Important Notes
 Make sure your microphone is properly configured
@@ -46,5 +45,16 @@ Check internet connection (Google Speech API dependency)
 - Python 3.10+
 - Microphone
 - Internet connection for speech recognition
+
+  ## 📸 UI Preview
+
+### 🏠 Main Interface
+![UI](home.png)
+
+### 🎮 Voice in Action
+![Gameplay](voiceinput.png)
+
+### 📚 Command Manual
+![Manual](commands.png)
 
 If you like this project, consider starring ⭐ the repository!
