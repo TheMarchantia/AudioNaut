@@ -20,6 +20,7 @@ python voiceUI.py
 
 📁 Project Structure
 AudioNaut/
+
 ├── voiceUI.py
 
 ├── Voice_Commands.py
