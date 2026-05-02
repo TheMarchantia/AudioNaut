@@ -14,13 +14,19 @@ AudioNaut is a customizable voice-controlled gaming interface. It lets players c
 2. Install requirements:
 pip install -r requirements.txt
 
-markdown
-Copy code
+
 3. Run the UI:
 python voiceUI.py
 
-perl
-Copy code
+📁 Project Structure
+AudioNaut/
+├── voiceUI.py             
+├── Voice_Commands.py
+├── gaming manual.png  
+├── TEXTBOX BG.png       
+└── UI BG.png
+└── README.md 
+└── requirements.txt    
 
 ## Add Your Own Commands
 Open `Voice_Commands.py` and edit the `commands = { ... }` dictionary.  
