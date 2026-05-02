@@ -20,12 +20,18 @@ python voiceUI.py
 
 📁 Project Structure
 AudioNaut/
-├── voiceUI.py             
+├── voiceUI.py
+
 ├── Voice_Commands.py
-├── gaming manual.png  
-├── TEXTBOX BG.png       
+
+├── gaming manual.png
+
+├── TEXTBOX BG.png    
+
 └── UI BG.png
+
 └── README.md 
+
 └── requirements.txt    
 
 ## Add Your Own Commands
