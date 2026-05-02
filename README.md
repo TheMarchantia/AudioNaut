@@ -19,6 +19,7 @@ pip install -r requirements.txt
 python voiceUI.py
 
 📁 Project Structure
+
 AudioNaut/
 
 ├── voiceUI.py
